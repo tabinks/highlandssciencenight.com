@@ -163,6 +163,9 @@ body {
   .cover-container {
     width: 700px;
   }
+  
+  .bubble_wrap{left: 45%;}
+  
 }
 
 /* Large devices (large desktops, 1200px and up) */
